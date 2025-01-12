@@ -4,4 +4,12 @@ The projects aims to practice how to interface a real hardware with the driver m
 
 The AT24 are EEPROMs compatible with the programming model of Atmel AT24.
 
+<p align="center">
+  <img src="files/diagram_driver.png">
+</p>
+
+<p align="center">
+  <img src="files/use.png">
+</p>
+
 **This is not a production driver**
